@@ -1,5 +1,5 @@
 # Overview
-- Deployment repo for AEM Manulife
+- Deployment repo for AEM Manulife website. The script here is loaded there directly in their AEM system
 - Please upload JS script here after build
 - Generate a release after uploading script
 - Use this link to pass uploaded JS script, pay attention to the tag version and file name too
